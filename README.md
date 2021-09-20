@@ -8,6 +8,8 @@
 
 #### Lembre-se também de utilizar uma versão atualizada do angular e IDE afim de evitar erros
 
+#### Aqui está o link referente ao Back-end para testar a aplicação em sua totalidade.
+
 
 
 
